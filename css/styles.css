@@ -1,0 +1,67 @@
+.row-header{
+	margin: 0px auto;
+	padding: 0px auto;
+}
+
+.row-content{
+	margin: 0px auto;
+	padding: 130px 0px 100px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+
+.homeInfo{
+	padding-top:100px;
+}
+
+.footer{
+	background-color: white;
+	margin: 0px auto;
+	padding: 0px 0px 0px 0px;
+}
+
+.jumbotron{
+	position: relative;
+	background-image: url(/background-image.jpg);
+	background-size: cover;
+	height: 350px;
+	color: white;
+}
+
+.resize{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	}
+	
+.headshot{
+}
+
+address{
+	font-size: 80%;
+	margin: 0px;
+	color: #0f0f0f;
+}
+
+body{
+	padding: 0px 0px 0px 0px;
+	z-index: 0;
+}
+
+.navbar-dark{
+	background-color: none;
+	color: white;
+}
+
+.overlay{
+	position: center;
+}
+
+.card-content{
+	margin: 0px auto;
+	padding: 50px 50px 50px 50px;
+}

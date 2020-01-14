@@ -4,8 +4,21 @@
   "description": "my personal webpage",
   "main": "index.html",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1"
+    "bootstrap-social": "^5.1.1",
+    "bootstrap4": "0.0.1-security",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "font-awesome5": "^1.0.5",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.6.9",
+    "nodemon": "^1.19.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.15.0",
+    "rm": "^0.1.8",
+    "touch": "^3.1.0"
   },
   "devDependencies": {
     "lite-server": "^2.5.3"
