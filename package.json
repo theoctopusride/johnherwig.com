@@ -5,7 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "lite-server": "^2.5.3"
